@@ -1,0 +1,12 @@
+average runtime of 500 matmul (kij) is 0.033158 seconds
+---------------------------------
+average runtime of 512 matmul (kij) is 0.063591 seconds
+---------------------------------
+average runtime of 1000 matmul (kij) is 0.306100 seconds
+---------------------------------
+average runtime of 1024 matmul (kij) is 0.551821 seconds
+---------------------------------
+average runtime of 2000 matmul (kij) is 3.170439 seconds
+---------------------------------
+average runtime of 2048 matmul (kij) is 5.968430 seconds
+---------------------------------

@@ -1,0 +1,7 @@
+services:
+  mat_matrix_test:
+    build:
+      context: .
+    container_name: mat_matrix_test
+    volumes:
+      - ./tests:/app/tests
