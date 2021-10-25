@@ -37,4 +37,39 @@ Makefile, virtualization (Conda environments, Docker, Singularity).</td>
       </td>
     </tr>
   </tbody>
+  <tbody>
+    <!-------------------- WEEK 3 -------------------->
+    <tr>
+      <td align="center"><a>3</a></td>
+      <td align="center">Cache.Pthreads.OpenMP.</td>
+      <td align="center">
+        <a href="./lections/03-OpenMP.pdf"><img src="./icons/pdf.png"/></a>
+        <a href="https://youtu.be/gRrcZ05bV3Q"><img src="./icons/youtube.png"/></a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <!-------------------- WEEK 4 -------------------->
+    <tr>
+      <td align="center"><a>4</a></td>
+      <td align="center">Basic elements of a supercomputer.Node, Master Node, Scheduler,
+Task statuses. Pagerank algorithm, matrices and graphs.</td>
+      <td align="center">
+        <a href="./lections/04-HPC-server-PageRank.pdf"><img src="./icons/pdf.png"/></a>
+        <a href="./boards/04-PageRank.pdf"><img src="./icons/board.png"/></a>
+        <a href="https://youtu.be/NL5DCw1zJ8A"><img src="./icons/youtube.png"/></a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <!-------------------- WEEK 5 -------------------->
+    <tr>
+      <td align="center"><a>5</a></td>
+      <td align="center">MPI + OpenMP, Race condition.</td>
+      <td align="center">
+        <a href="./lections/05-MPI.pdf"><img src="./icons/pdf.png"/></a>
+        <a href="https://youtu.be/pXgZnB1FdoY"><img src="./icons/youtube.png"/></a>
+      </td>
+    </tr>
+  </tbody>
 </table>
