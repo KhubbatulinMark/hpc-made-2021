@@ -1,0 +1,7 @@
+Matrix Power 2 Time: 0.477817 
+Matrix Power 4 Time: 0.599389 
+Matrix Power 8 Time: 0.685270 
+Matrix Power 16 Time: 0.838837 
+Matrix Power 32 Time: 1.000051 
+Matrix Power 64 Time: 1.112431 
+Matrix Power 128 Time: 1.292445 

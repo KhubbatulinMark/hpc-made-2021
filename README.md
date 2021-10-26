@@ -41,7 +41,7 @@ Makefile, virtualization (Conda environments, Docker, Singularity).</td>
     <!-------------------- WEEK 3 -------------------->
     <tr>
       <td align="center"><a>3</a></td>
-      <td align="center">Cache.Pthreads.OpenMP.</td>
+      <td align="center">Cache. Pthreads. OpenMP.</td>
       <td align="center">
         <a href="./lections/03-OpenMP.pdf"><img src="./icons/pdf.png"/></a>
         <a href="https://youtu.be/gRrcZ05bV3Q"><img src="./icons/youtube.png"/></a>
