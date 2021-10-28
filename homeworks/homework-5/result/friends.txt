@@ -1,0 +1,18 @@
+First person at the party Mark
+Mark
+Mark==>Ron
+Mark==>Ron==>Doris
+Mark==>Ron==>Doris==>Barbara
+Mark==>Ron==>Doris==>Barbara==>Rudolph
+Mark==>Ron==>Doris==>Barbara==>Rudolph==>Rosie
+Mark==>Ron==>Doris==>Barbara==>Rudolph==>Rosie==>Taylor
+Mark==>Ron==>Doris==>Barbara==>Rudolph==>Rosie==>Taylor==>Derek
+Mark==>Ron==>Doris==>Barbara==>Rudolph==>Rosie==>Taylor==>Derek==>Joyce
+Mark==>Ron==>Doris==>Barbara==>Rudolph==>Rosie==>Taylor==>Derek==>Joyce==>Elaine
+Mark==>Ron==>Doris==>Barbara==>Rudolph==>Rosie==>Taylor==>Derek==>Joyce==>Elaine==>Ruth
+Mark==>Ron==>Doris==>Barbara==>Rudolph==>Rosie==>Taylor==>Derek==>Joyce==>Elaine==>Ruth==>Sean
+Mark==>Ron==>Doris==>Barbara==>Rudolph==>Rosie==>Taylor==>Derek==>Joyce==>Elaine==>Ruth==>Sean==>Larry
+Mark==>Ron==>Doris==>Barbara==>Rudolph==>Rosie==>Taylor==>Derek==>Joyce==>Elaine==>Ruth==>Sean==>Larry==>Daniel
+Mark==>Ron==>Doris==>Barbara==>Rudolph==>Rosie==>Taylor==>Derek==>Joyce==>Elaine==>Ruth==>Sean==>Larry==>Daniel==>Richard
+Mark==>Ron==>Doris==>Barbara==>Rudolph==>Rosie==>Taylor==>Derek==>Joyce==>Elaine==>Ruth==>Sean==>Larry==>Daniel==>Richard==>Lacy
+Lacy last at the party
