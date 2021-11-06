@@ -76,7 +76,7 @@ Task statuses. Pagerank algorithm, matrices and graphs.</td>
     <!-------------------- WEEK 6 -------------------->
     <tr>
       <td align="center"><a>6</a></td>
-      <td align="center">MPI + OpenMP, Race condition.</td>
+      <td align="center">MPI topology. MPI IO. Mpi4Py.</td>
       <td align="center">
         <a href="./lections/06-MPI-Python.pdf"><img src="./icons/pdf.png"/></a>
         <a href="https://youtu.be/BEWrpKhi_ag"><img src="./icons/youtube.png"/></a>

@@ -35,7 +35,7 @@ RUN pip3 install --upgrade pip
 
 USER ${USER}
 RUN  pip3 install --user -U setuptools \
-    && pip3 install --user mpi4py names
+    && pip3 install --user mpi4py names matplotlib razdel nltk
 
 # ------------------------------------------------------------
 # Configure OpenMPI

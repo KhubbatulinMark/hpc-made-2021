@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+    mpi_head:
+        build: .
+        container_name: mpi_head
+        volumes:
+            - .:/app
+        ports:
+          - "22"
+        links:
+          - mpi_node
+
+    mpi_node:
+        build: .
