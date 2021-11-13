@@ -41,6 +41,8 @@ make test_friends
 4.1) Бонус Война и Мир [10 баллов]
 
 С помощью работы на нескольких процессах (MPI) найдите топ-10 встречающихся слов в романе «Война и Мир» Л.Н. Толстого
-
+```bash
+make test_war_and_peace
+```
 [program](source/war_and_peace.py) \
 [result](result/war_and_peace.txt)
