@@ -1,0 +1,32 @@
+version: '3.7'
+
+services:
+  cupy:
+    build: .
+    ports:
+      - 8897:8888
+    volumes:
+      - .:/opt/app/ #main dir
+    environment:
+      JUPYTER_ENABLE_LAB: 1s
+      CHOWN_HOME: 'yes'
+      CHOWN_HOME_OPTS: '-R'
+    shm_size: '20gb'
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: [ '0' ]
+              capabilities: [ gpu ]
+
+    entrypoint: /bin/bash
+    command: >-
+      -c 'jupyter lab
+      --ip=0.0.0.0
+      --allow-root
+      --port=8888
+      --no-browser
+      --notebook-dir=/opt/app
+      --NotebookApp.token='test'
+      '

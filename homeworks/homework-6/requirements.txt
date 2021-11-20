@@ -1,0 +1,5 @@
+future
+pycuda
+jupyterlab
+opencv-python
+matplotlib
