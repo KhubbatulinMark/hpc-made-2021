@@ -26,10 +26,24 @@ Kernel size 5             |  Kernel size 9
 ![](blur/result/test_5.jpeg)  |  ![](blur/result/test_9.jpeg)
 
 
+### 2. Медианный фильтр [25 баллов]
 Имплементируйте [Median filter](https://en.wikipedia.org/wiki/Median_filter)
 
 ### 3. Гистограмма картинки [50 баллов]
-
 Загрузите или создайте картинку (если она цветная можете 
 конвертировать в grayscale или сделать гистограмму для каждого канала), 
-   сделайте гистограмму по яркости
+сделайте гистограмму по яркости
+
+[main.py](histogram/main.py)
+```shell
+python main.py histogram -i images/test_image.jpeg -o result
+```
+
+Origin
+![](histogram/images/test_image.jpeg)
+
+Color | Channel             |  Histogram
+:-------------------------:|:-------------------------:|:-------------------------:
+Red | ![](histogram/result/red_channel.jpeg)  |  ![](histogram/result/red_histogram.jpeg)
+Green | ![](histogram/result/green_channel.jpeg)  |  ![](histogram/result/green_histogram.jpeg)
+Blue | ![](histogram/result/blue_channel.jpeg)  |  ![](histogram/result/blue_histogram.jpeg)
