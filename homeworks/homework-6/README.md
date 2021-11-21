@@ -40,6 +40,7 @@ python main.py histogram -i images/test_image.jpeg -o result
 ```
 
 Origin
+
 ![](histogram/images/test_image.jpeg)
 
 Color | Channel             |  Histogram
